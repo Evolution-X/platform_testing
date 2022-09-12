@@ -39,7 +39,6 @@ test_package {
         "benchmarks",
         "BootHelperApp",
         "BusinessCard",
-        "CalendarTests",
         "CellBroadcastReceiverTests",
         "ConnectivityUIDTest",
         "CtsCameraTestCases",

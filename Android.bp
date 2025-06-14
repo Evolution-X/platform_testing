@@ -125,10 +125,6 @@ test_package {
         "mmapPerf",
         "xaVideoDecoderCapabilities",
     ],
-    host_tests: [
-        "perfetto_trace_processor_shell",
-        "root-canal",
-    ],
     tests_if_exist_common: [
         "AndroidAutoScenarioTests",
         "BiometricsMicrobenchmark",
